@@ -17,10 +17,12 @@ const categories = {
     ]
   };
   
-  // Roll button functionality
-  document.getElementById("roll-button").addEventListener("click", () => {
+    document.getElementById("roll-button").addEventListener("click", () => {
     const category = document.getElementById("category").value;
-    const items = categories[category];
+    
+    const allItems = Object.values(categories).flat();
+    const items = category === "any" ? allItems : categories[category];
+    
     const randomItem = items[Math.floor(Math.random() * items.length)];
     document.getElementById("roll-result").textContent = randomItem;
   });
