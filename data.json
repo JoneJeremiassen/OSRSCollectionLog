@@ -1,110 +1,497 @@
 {
     "bosses": [
-        { "name": "Abyssal Sire", "imageURL": "https://oldschool.runescape.wiki/images/Abyssal_Sire.png" },
-        { "name": "Alchemical Hydra", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Alchemical_Hydra_logo.png" },
-        { "name": "Amoxliatl", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Artio_logo.png" },
-        { "name": "Araxxor", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Araxxi_logo.png" },
-        { "name": "Barrows Chests", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Barrows_logo.png" },
-        { "name": "Bryophyta", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Bryophyta_logo.png" },
-        { "name": "Callisto and Artio", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Callisto_logo.png" },
-        { "name": "Cerberus", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Cerberus_logo.png" },
-        { "name": "Chaos Elemental", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Chaos_Elemental_logo.png" },
-        { "name": "Chaos Fanatic", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Chaos_Fanatic_logo.png" },
-        { "name": "Commander Zilyana", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Commander_Zilyana_logo.png" },
-        { "name": "Corporeal Beast", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Corporeal_Beast_logo.png" },
-        { "name": "Crazy archaeologist", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Crazy_archaeologist_logo.png" },
-        { "name": "Dagannoth Kings", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Dagannoth_Kings_logo.png" },
-        { "name": "Duke Sucellus", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Duke_Sucellus_logo.png" },
-        { "name": "The Fight Caves", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/TzTok-Jad_logo.png" },
-        { "name": "Fortis Colosseum", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Fortis_Colosseum_logo.png" },
-        { "name": "The Gauntlet", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/The_Gauntlet_logo.png" },
-        { "name": "General Graardor", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/General_Graardor_logo.png" },
-        { "name": "Giant Mole", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Giant_Mole_logo.png" },
-        { "name": "Grotesque Guardians", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Grotesque_Guardians_logo.png" },
-        { "name": "Hespori", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Hespori_logo.png" },
-        { "name": "The Inferno", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/TzKal-Zuk_logo.png" },
-        { "name": "Kalphite Queen", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Kalphite_Queen_logo.png" },
-        { "name": "King Black Dragon", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/King_Black_Dragon_logo.png" },
-        { "name": "Kraken", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Kraken_logo.png" },
-        { "name": "Kree'arra", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Kree%27arra_logo.png" },
-        { "name": "K'ril Tsutsaroth", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/K%27ril_Tsutsaroth_logo.png" },
-        { "name": "The Leviathan", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/The_Leviathan_logo.png" },
-        { "name": "Moons of Peril", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Moons_of_Peril_logo.png" },
-        { "name": "Nex", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Nex_logo.png" },
-        { "name": "The Nightmare", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/The_Nightmare_logo.png" },
-        { "name": "Obor", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Obor_logo.png" },
-        { "name": "Phantom Muspah", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Phantom_Muspah_logo.png" },
-        { "name": "Sarachnis", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Sarachnis_logo.png" },
-        { "name": "Scorpia", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Scorpia_logo.png" },
-        { "name": "Scurrius", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Scurrius_logo.png" },
-        { "name": "Skotizo", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Skotizo_logo.png" },
-        { "name": "Tempoross", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Tempoross_logo.png" },
-        { "name": "Thermonuclear smoke devil", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Thermonuclear_smoke_devil_logo.png" },
-        { "name": "Vardorvis", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Vardorvis_logo.png" },
-        { "name": "Venenatis and Spindel", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Venenatis_logo.png" },
-        { "name": "Vet'ion and Calvar'ion", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Vet%27ion_logo.png" },
-        { "name": "Vorkath", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Vorkath_logo.png" },
-        { "name": "The Whisperer", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/The_Whisperer_logo.png" },
-        { "name": "Wintertodt", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Wintertodt_logo.png" },
-        { "name": "Zulrah", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Zulrah_logo.png" }
+        {
+            "name": "Abyssal Sire",
+            "imageURL": "https://oldschool.runescape.wiki/images/Abyssal_Sire.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Abyssal_Sire"
+        },
+        {
+            "name": "Alchemical Hydra",
+            "imageURL": "https://oldschool.runescape.wiki/images/thumb/Alchemical_Hydra_%28serpentine%29.png/800px-Alchemical_Hydra_%28serpentine%29.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Alchemical_Hydra"
+        },
+        {
+            "name": "Artio",
+            "imageURL": "https://oldschool.runescape.wiki/images/Artio.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Artio"
+        },
+        {
+            "name": "Araxxi",
+            "imageURL": "https://oldschool.runescape.wiki/images/Araxxor.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Araxxi"
+        },
+        {
+            "name": "Barrows Chests",
+            "imageURL": "https://oldschool.runescape.wiki/images/Barrows_minigame.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Barrows"
+        },
+        {
+            "name": "Bryophyta",
+            "imageURL": "https://oldschool.runescape.wiki/images/Bryophyta.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Bryophyta"
+        },
+        {
+            "name": "Callisto",
+            "imageURL": "https://oldschool.runescape.wiki/images/Callisto.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Callisto"
+        },
+        {
+            "name": "Cerberus",
+            "imageURL": "https://oldschool.runescape.wiki/images/Cerberus.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Cerberus"
+        },
+        {
+            "name": "Chaos Elemental",
+            "imageURL": "https://oldschool.runescape.wiki/images/Chaos_Elemental.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Chaos_Elemental"
+        },
+        {
+            "name": "Chaos Fanatic",
+            "imageURL": "https://oldschool.runescape.wiki/images/Chaos_Fanatic.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Chaos_Fanatic"
+        },
+        {
+            "name": "Commander Zilyana",
+            "imageURL": "https://oldschool.runescape.wiki/images/Commander_Zilyana.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Commander_Zilyana"
+        },
+        {
+            "name": "Corporeal Beast",
+            "imageURL": "https://oldschool.runescape.wiki/images/Corporeal_Beast.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Corporeal_Beast"
+        },
+        {
+            "name": "Crazy archaeologist",
+            "imageURL": "https://oldschool.runescape.wiki/images/Crazy_archaeologist.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Crazy_archaeologist"
+        },
+        {
+            "name": "Dagannoth Kings",
+            "imageURL": "https://oldschool.runescape.wiki/images/thumb/Dagannoth_Prime.png/800px-Dagannoth_Prime.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Dagannoth_Kings"
+        },
+        {
+            "name": "Duke Sucellus",
+            "imageURL": "https://oldschool.runescape.wiki/images/Duke_Sucellus.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Duke_Sucellus"
+        },
+        {
+            "name": "TzTok-Jad",
+            "imageURL": "https://oldschool.runescape.wiki/images/TzTok-Jad.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/TzTok-Jad"
+        },
+        {
+            "name": "Fortis Colosseum",
+            "imageURL": "https://oldschool.runescape.wiki/images/Fortis_Colosseum.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Fortis_Colosseum"
+        },
+        {
+            "name": "The Gauntlet",
+            "imageURL": "https://oldschool.runescape.wiki/images/The_Gauntlet.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/The_Gauntlet"
+        },
+        {
+            "name": "General Graardor",
+            "imageURL": "https://oldschool.runescape.wiki/images/General_Graardor.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/General_Graardor"
+        },
+        {
+            "name": "Giant Mole",
+            "imageURL": "https://oldschool.runescape.wiki/images/Giant_Mole.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Giant_Mole"
+        },
+        {
+            "name": "Grotesque Guardians",
+            "imageURL": "https://oldschool.runescape.wiki/images/Fighting_Grotesque_Guardians.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Grotesque_Guardians"
+        },
+        {
+            "name": "Hespori",
+            "imageURL": "https://oldschool.runescape.wiki/images/Hespori.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Hespori"
+        },
+        {
+            "name": "TzKal-Zuk",
+            "imageURL": "https://oldschool.runescape.wiki/images/TzKal-Zuk.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/TzKal-Zuk"
+        },
+        {
+            "name": "Kalphite Queen",
+            "imageURL": "https://oldschool.runescape.wiki/images/Kalphite_Queen.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Kalphite_Queen"
+        },
+        {
+            "name": "King Black Dragon",
+            "imageURL": "https://oldschool.runescape.wiki/images/King_Black_Dragon.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/King_Black_Dragon"
+        },
+        {
+            "name": "Kraken",
+            "imageURL": "https://oldschool.runescape.wiki/images/Kraken.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Kraken"
+        },
+        {
+            "name": "Kree'arra",
+            "imageURL": "https://oldschool.runescape.wiki/images/Kree%27arra.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Kree%27arra"
+        },
+        {
+            "name": "K'ril Tsutsaroth",
+            "imageURL": "https://oldschool.runescape.wiki/images/K%27ril_Tsutsaroth.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/K%27ril_Tsutsaroth"
+        },
+        {
+            "name": "The Leviathan",
+            "imageURL": "https://oldschool.runescape.wiki/images/The_Leviathan.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/The_Leviathan"
+        },
+        {
+            "name": "Moons of Peril",
+            "imageURL": "https://oldschool.runescape.wiki/images/Neypotzli.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Moons_of_Peril"
+        },
+        {
+            "name": "Nex",
+            "imageURL": "https://oldschool.runescape.wiki/images/Nex.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Nex"
+        },
+        {
+            "name": "The Nightmare",
+            "imageURL": "https://oldschool.runescape.wiki/images/The_Nightmare.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/The_Nightmare"
+        },
+        {
+            "name": "Obor",
+            "imageURL": "https://oldschool.runescape.wiki/images/Obor.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Obor"
+        },
+        {
+            "name": "Phantom Muspah",
+            "imageURL": "https://oldschool.runescape.wiki/images/thumb/Phantom_Muspah_%28ranged%29.png/1024px-Phantom_Muspah_%28ranged%29.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Phantom_Muspah"
+        },
+        {
+            "name": "Sarachnis",
+            "imageURL": "https://oldschool.runescape.wiki/images/Sarachnis.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Sarachnis"
+        },
+        {
+            "name": "Scorpia",
+            "imageURL": "https://oldschool.runescape.wiki/images/Scorpia.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Scorpia"
+        },
+        {
+            "name": "Scurrius",
+            "imageURL": "https://oldschool.runescape.wiki/images/Scurrius.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Scurrius"
+        },
+        {
+            "name": "Skotizo",
+            "imageURL": "https://oldschool.runescape.wiki/images/Skotizo.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Skotizo"
+        },
+        {
+            "name": "Tempoross",
+            "imageURL": "https://oldschool.runescape.wiki/images/Tempoross.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Tempoross"
+        },
+        {
+            "name": "Thermonuclear smoke devil",
+            "imageURL": "https://oldschool.runescape.wiki/images/Thermonuclear_smoke_devil.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Thermonuclear_smoke_devil"
+        },
+        {
+            "name": "Vardorvis",
+            "imageURL": "https://oldschool.runescape.wiki/images/Vardorvis.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Vardorvis"
+        },
+        {
+            "name": "Venenatis",
+            "imageURL": "https://oldschool.runescape.wiki/images/Venenatis.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Venenatis"
+        },
+        {
+            "name": "Vet'ion",
+            "imageURL": "https://oldschool.runescape.wiki/images/Vet%27ion.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Vet%27ion"
+        },
+        {
+            "name": "Vorkath",
+            "imageURL": "https://oldschool.runescape.wiki/images/Vorkath.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Vorkath"
+        },
+        {
+            "name": "The Whisperer",
+            "imageURL": "https://oldschool.runescape.wiki/images/The_Whisperer.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/The_Whisperer"
+        },
+        {
+            "name": "Wintertodt",
+            "imageURL": "https://oldschool.runescape.wiki/images/Doors_of_Dinh.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Wintertodt"
+        },
+        {
+            "name": "Zulrah",
+            "imageURL": "https://oldschool.runescape.wiki/images/thumb/Zulrah_%28tanzanite%29.png/800px-Zulrah_%28tanzanite%29.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Zulrah"
+        }
     ],
     "raids": [
-        { "name": "Chambers of Xeric", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Chambers_of_Xeric_logo.png" },
-        { "name": "Theatre of Blood", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Theatre_of_Blood_logo.png" },
-        { "name": "Tombs of Amascut", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Tombs_of_Amascut_logo.png" }
+        {
+            "name": "Chambers of Xeric",
+            "imageURL": "https://oldschool.runescape.wiki/images/thumb/Chambers_of_Xeric_logo.png/1024px-Chambers_of_Xeric_logo.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Chambers_of_Xeric"
+        },
+        {
+            "name": "Theatre of Blood",
+            "imageURL": "https://oldschool.runescape.wiki/images/Theatre_of_Blood_logo.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Theatre_of_Blood"
+        },
+        {
+            "name": "Tombs of Amascut",
+            "imageURL": "https://oldschool.runescape.wiki/images/Tombs_of_Amascut.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Tombs_of_Amascut"
+        }
     ],
     "clues": [
-        { "name": "Beginner Treasure Trails", "imageURL": "https://oldschool.runescape.wiki/images/Clue_scroll_(beginner)_detail.png" },
-        { "name": "Easy Treasure Trails", "imageURL": "https://oldschool.runescape.wiki/images/Clue_scroll_(easy)_detail.png" },
-        { "name": "Medium Treasure Trails", "imageURL": "https://oldschool.runescape.wiki/images/Clue_scroll_(medium)_detail.png" },
-        { "name": "Hard Treasure Trails", "imageURL": "https://oldschool.runescape.wiki/images/Clue_scroll_(hard)_detail.png" },
-        { "name": "Elite Treasure Trails", "imageURL": "https://oldschool.runescape.wiki/images/Clue_scroll_(elite)_detail.png" },
-        { "name": "Master Treasure Trails", "imageURL": "https://oldschool.runescape.wiki/images/Clue_scroll_(master)_detail.png" }
+        {
+            "name": "Beginner Treasure Trails",
+            "imageURL": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_%28beginner%29_detail.png/1024px-Clue_scroll_%28beginner%29_detail.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Treasure_Trails#beginner"
+        },
+        {
+            "name": "Easy Treasure Trails",
+            "imageURL": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_%28easy%29_detail.png/1024px-Clue_scroll_%28easy%29_detail.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Treasure_Trails#easy"
+        },
+        {
+            "name": "Medium Treasure Trails",
+            "imageURL": "https://oldschool.runescape.wiki/images/Clue_scroll_%28medium%29_detail.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Treasure_Trails#medium"
+        },
+        {
+            "name": "Hard Treasure Trails",
+            "imageURL": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_%28hard%29_detail.png/1024px-Clue_scroll_%28hard%29_detail.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Treasure_Trails#hard"
+        },
+        {
+            "name": "Elite Treasure Trails",
+            "imageURL": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_%28elite%29_detail.png/1024px-Clue_scroll_%28elite%29_detail.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Treasure_Trails#elite"
+        },
+        {
+            "name": "Master Treasure Trails",
+            "imageURL": "https://oldschool.runescape.wiki/images/thumb/Clue_scroll_%28master%29_detail.png/1024px-Clue_scroll_%28master%29_detail.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Treasure_Trails#master"
+        }
     ],
     "minigames": [
-        { "name": "Barbarian Assault", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Barbarian_Assault_logo.png" },
-        { "name": "Brimhaven Agility Arena", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Brimhaven_Agility_Arena_logo.png" },
-        { "name": "Castle Wars", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Castle_Wars_logo.png" },
-        { "name": "Fishing Trawler", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Fishing_Trawler_logo.png" },
-        { "name": "Giants' Foundry", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Giants%27_Foundry_logo.png" },
-        { "name": "Gnome Restaurant", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Gnome_Restaurant_logo.png" },
-        { "name": "Guardians of the Rift", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Guardians_of_the_Rift_logo.png" },
-        { "name": "Hallowed Sepulchre", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Hallowed_Sepulchre_logo.png" },
-        { "name": "Last Man Standing", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Last_Man_Standing_logo.png" },
-        { "name": "Magic Training Arena", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Magic_Training_Arena_logo.png" },
-        { "name": "Mahogany Homes", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Mahogany_Homes_logo.png" },
-        { "name": "Master mixology", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Mixology_logo.png" },
-        { "name": "Pest Control", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Pest_Control_logo.png" },
-        { "name": "Rogues' Den", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Rogues%27_Den_logo.png" },
-        { "name": "Shades of Mort'ton", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Shades_of_Mort%27ton_logo.png" },
-        { "name": "Soul Wars", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Soul_Wars_logo.png" },
-        { "name": "Temple Trekking", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Temple_Trekking_logo.png" },
-        { "name": "Tithe Farm", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Tithe_Farm_logo.png" },
-        { "name": "Trouble Brewing", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Trouble_Brewing_logo.png" },
-        { "name": "Volcanic Mine", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Volcanic_Mine_logo.png" }
+        {
+            "name": "Barbarian Assault",
+            "imageURL": "https://oldschool.runescape.wiki/images/Barbarian_Assault_gameplay.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Barbarian_Assault"
+        },
+        {
+            "name": "Brimhaven Agility Arena",
+            "imageURL": "https://oldschool.runescape.wiki/images/Brimhaven_Agility_Arena.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Brimhaven_Agility_Arena"
+        },
+        {
+            "name": "Castle Wars",
+            "imageURL": "https://oldschool.runescape.wiki/images/Castle_Wars.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Castle_Wars"
+        },
+        {
+            "name": "Fishing Trawler",
+            "imageURL": "https://oldschool.runescape.wiki/images/Fishing_Trawler.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Fishing_Trawler"
+        },
+        {
+            "name": "Giants' Foundry",
+            "imageURL": "https://oldschool.runescape.wiki/images/Giants%27_Foundry.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Giants%27_Foundry"
+        },
+        {
+            "name": "Gnome Restaurant",
+            "imageURL": "https://oldschool.runescape.wiki/images/Gnome_Restaurant.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Gnome_Restaurant"
+        },
+        {
+            "name": "Guardians of the Rift",
+            "imageURL": "https://oldschool.runescape.wiki/images/Guardians_of_the_Rift.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Guardians_of_the_Rift"
+        },
+        {
+            "name": "Hallowed Sepulchre",
+            "imageURL": "https://oldschool.runescape.wiki/images/Hallowed_Sepulchre_lobby.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Hallowed_Sepulchre"
+        },
+        {
+            "name": "Last Man Standing",
+            "imageURL": "https://oldschool.runescape.wiki/images/Last_Man_Standing.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Last_Man_Standing"
+        },
+        {
+            "name": "Magic Training Arena",
+            "imageURL": "https://oldschool.runescape.wiki/images/Mage_Training_Arena.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Magic_Training_Arena"
+        },
+        {
+            "name": "Mahogany Homes",
+            "imageURL": "https://oldschool.runescape.wiki/images/Mahogany_Homes_logo.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Mahogany_Homes"
+        },
+        {
+            "name": "Pest Control",
+            "imageURL": "https://oldschool.runescape.wiki/images/Pest_Control.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Pest_Control"
+        },
+        {
+            "name": "Rogues' Den",
+            "imageURL": "https://oldschool.runescape.wiki/images/Rogues%27_Den.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Rogues%27_Den"
+        },
+        {
+            "name": "Shades of Mort'ton",
+            "imageURL": "https://oldschool.runescape.wiki/images/Shades_of_Mor%27ton.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Shades_of_Mort%27ton"
+        },
+        {
+            "name": "Soul Wars",
+            "imageURL": "https://oldschool.runescape.wiki/images/thumb/Isle_of_Souls_-_Soul_Wars_lobby.png/1280px-Isle_of_Souls_-_Soul_Wars_lobby.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Soul_Wars"
+        },
+        {
+            "name": "Temple Trekking",
+            "imageURL": "https://oldschool.runescape.wiki/images/Temple_Trekking.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Temple_Trekking"
+        },
+        {
+            "name": "Tithe Farm",
+            "imageURL": "https://oldschool.runescape.wiki/images/Tithe_Farm.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Tithe_Farm"
+        },
+        {
+            "name": "Trouble Brewing",
+            "imageURL": "https://oldschool.runescape.wiki/images/Trouble_Brewing.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Trouble_Brewing"
+        },
+        {
+            "name": "Volcanic Mine",
+            "imageURL": "https://oldschool.runescape.wiki/images/Volcanic_Mine.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Volcanic_Mine"
+        }
     ],
     "other": [
-        { "name": "Aerial Fishing", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Aerial_Fishing_logo.png" },
-        { "name": "All Pets", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Pet_logo.png" },
-        { "name": "Camdozaal", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Camdozaal_logo.png" },
-        { "name": "Champion's Challenge", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Champion%27s_Challenge_logo.png" },
-        { "name": "Chaos Druids", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Chaos_Druid_logo.png" },
-        { "name": "Chompy Birds", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Chompy_bird_logo.png" },
-        { "name": "Creature Creation", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Creature_Creation_logo.png" },
-        { "name": "Cyclopes", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Cyclopes_logo.png" },
-        { "name": "Forestry", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Forestry_logo.png" },
-        { "name": "Fossil Island Notes", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Fossil_Island_Notes_logo.png" },
-        { "name": "Glough's Experiments", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Glough%27s_Experiments_logo.png" },
-        { "name": "Hunter Guild", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Hunter_Guild_logo.png" },
-        { "name": "Monkey Backpacks", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Monkey_backpack_logo.png" },
-        { "name": "Motherlode Mine", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Motherlode_Mine_logo.png" },
-        { "name": "Revenants", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Revenants_logo.png" },
-        { "name": "Rooftop Agility", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Rooftop_Agility_logo.png" },
-        { "name": "Shayzien Armour", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Shayzien_armour_logo.png" },
-        { "name": "Shooting Stars", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Shooting_Star_logo.png" },
-        { "name": "Skilling Pets", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Skilling_pet_logo.png" },
-        { "name": "Slayer", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Slayer_logo.png" },
-        { "name": "Tormented Demons", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/Tormented_demon_logo.png" },
-        { "name": "TzHaar", "imageURL": "https://oldschool.runescape.wiki/w/Special:Redirect/file/TzHaar_logo.png" }
+        {
+            "name": "Aerial Fishing",
+            "imageURL": "https://oldschool.runescape.wiki/images/thumb/Lake_Molch.png/1280px-Lake_Molch.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Aerial_Fishing"
+        },
+        {
+            "name": "All Pets",
+            "imageURL": "https://oldschool.runescape.wiki/images/Pets_in_a_menagerie.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Pet"
+        },
+        {
+            "name": "Camdozaal",
+            "imageURL": "https://oldschool.runescape.wiki/images/Ruins_of_Camdozaal.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Camdozaal"
+        },
+        {
+            "name": "Champion's Challenge",
+            "imageURL": "https://oldschool.runescape.wiki/images/Fighting_Skeleton_Champion.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Champion%27s_Challenge"
+        },
+        {
+            "name": "Chaos Druids",
+            "imageURL": "https://oldschool.runescape.wiki/images/Chaos_druid.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Chaos_Druid"
+        },
+        {
+            "name": "Chompy Birds",
+            "imageURL": "https://oldschool.runescape.wiki/images/Chompy_bird.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Chompy_bird"
+        },
+        {
+            "name": "Creature Creation",
+            "imageURL": "https://oldschool.runescape.wiki/images/Homunculus_in_dungeon.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Creature_Creation"
+        },
+        {
+            "name": "Cyclopes",
+            "imageURL": "https://oldschool.runescape.wiki/images/thumb/Cyclops_%28level_76%2C_1%29.png/800px-Cyclops_%28level_76%2C_1%29.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Cyclopes"
+        },
+        {
+            "name": "Forestry",
+            "imageURL": "https://oldschool.runescape.wiki/images/Forestry.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Forestry"
+        },
+        {
+            "name": "Fossil Island Notes",
+            "imageURL": "https://oldschool.runescape.wiki/images/thumb/Fossil_island_note_book_detail.png/1024px-Fossil_island_note_book_detail.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Fossil_Island_Notes"
+        },
+        {
+            "name": "Glough's Experiments",
+            "imageURL": "https://oldschool.runescape.wiki/images/thumb/Demonic_gorilla.png/1024px-Demonic_gorilla.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Glough%27s_Experiments"
+        },
+        {
+            "name": "Hunter Guild",
+            "imageURL": "https://oldschool.runescape.wiki/images/Hunter_Guild.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Hunter_Guild"
+        },
+        {
+            "name": "Monkey Backpacks",
+            "imageURL": "https://oldschool.runescape.wiki/images/thumb/Monkey_%28Monkey_Madness_II%29_equipped.png/320px-Monkey_%28Monkey_Madness_II%29_equipped.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Monkey_backpack"
+        },
+        {
+            "name": "Motherlode Mine",
+            "imageURL": "https://oldschool.runescape.wiki/images/Motherlode_Mine.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Motherlode_Mine"
+        },
+        {
+            "name": "Revenants",
+            "imageURL": "https://oldschool.runescape.wiki/images/Fighting_revenant_dragon.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Revenants"
+        },
+        {
+            "name": "Rooftop Agility",
+            "imageURL": "https://oldschool.runescape.wiki/images/thumb/Mark_of_grace_detail.png/1024px-Mark_of_grace_detail.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Rooftop_Agility"
+        },
+        {
+            "name": "Shayzien Armour",
+            "imageURL": "https://oldschool.runescape.wiki/images/Shayzien_armour_%285%29_%28male%29_equipped.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Shayzien_armour"
+        },
+        {
+            "name": "Shooting Stars",
+            "imageURL": "https://oldschool.runescape.wiki/images/Shooting_Stars.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Shooting_Stars"
+        },
+        {
+            "name": "Skilling Pets",
+            "imageURL": "https://oldschool.runescape.wiki/images/Pets_in_a_menagerie.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Skilling_pet"
+        },
+        {
+            "name": "Slayer",
+            "imageURL": "https://oldschool.runescape.wiki/images/Slayer.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Slayer"
+        },
+        {
+            "name": "Tormented Demons",
+            "imageURL": "https://oldschool.runescape.wiki/images/thumb/Demonic_gorilla.png/1024px-Demonic_gorilla.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/Tormented_demon"
+        },
+        {
+            "name": "TzHaar",
+            "imageURL": "https://oldschool.runescape.wiki/images/TzHaar_City.png",
+            "wikiURL": "https://oldschool.runescape.wiki/w/TzHaar"
+        }
     ]
 }

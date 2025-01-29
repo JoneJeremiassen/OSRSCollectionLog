@@ -9,7 +9,7 @@
 <body>
   <div class="container">
     <h1>Collection Log Roller</h1>
-    
+
     <div class="category-select">
       <label for="category">Choose a category:</label>
       <select id="category">
@@ -20,13 +20,15 @@
         <option value="minigames">Minigames</option>
         <option value="other">Other</option>
       </select>
-      <button id="roll-button">Roll</button>
+      <button id="roll-button" aria-label="Roll for new item">Roll</button>
     </div>
 
     <div class="result">
       <h2>Your Roll:</h2>
-      <img id="roll-image" src="" class="item-image">
-      <p id="roll-result">-</p>
+      <div class="image-container">
+        <img id="roll-image" class="item-image" alt="Collection log item">
+      </div>
+      <p id="roll-result"></p>
     </div>
   </div>
 
